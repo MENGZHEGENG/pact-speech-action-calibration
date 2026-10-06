@@ -1,0 +1,6 @@
+{
+  "schema": "pact-slm-public-replay-reference/v1",
+  "scope": "prediction-level replay for the variable-onset diagnostic",
+  "prediction_file": "test_predictions.jsonl",
+  "label_contract": "source-index semantic targets"
+}
